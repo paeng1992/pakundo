@@ -12,7 +12,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from carparktool import CarParkTool
+from pakundo import CarParkTool
 
 __CHANNEL_USERNAME__ = "Pakundo"
 __GROUP_USERNAME__   = "Pakundo"
