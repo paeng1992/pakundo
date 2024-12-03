@@ -12,10 +12,10 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from pakundo import pakundo
+from carparktool import CarParkTool
 
-__CHANNEL_USERNAME__ = "PAKUNDO"
-__GROUP_USERNAME__   = "PAKUNDO"
+__CHANNEL_USERNAME__ = "Pakundo"
+__GROUP_USERNAME__   = "Pakundo"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
